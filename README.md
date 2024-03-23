@@ -1,16 +1,18 @@
 Hi 👋, I'm Monica
-Junior Developer
+Desarrollador Web Full-Stack
+
 🌱 I’m currently learning React
 
 👨‍💻 All of my projects are available at monica3001
 
-📫 How to reach me monica.aymerich@hotmail.com
+📫 How to reach me: monica.aymerich@hotmail.com
 
 Connect with me:
-monicaaymerich30 monica_aymerich
+linkedin: monicaaymerich30 
+instagram: monica_aymerich
 
 Languages and Tools:
-git html5 javascript nodejs
+git, html5, javascript, nodejs, css, typescript, react, sql
 
 
 
