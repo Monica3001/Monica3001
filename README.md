@@ -8,7 +8,7 @@ Desarrollador Web Full-Stack
 📫 How to reach me: monica.aymerich@hotmail.com
 
 Connect with me:
-linkedin: monicaaymerich30 
+www.linkedin.com/in/monicaaymerich30
 
 Languages and Tools:
 HTML, CSS, JavaScript, React, Typescript, SQL and Node.js
